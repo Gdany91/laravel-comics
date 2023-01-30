@@ -1,7 +1,7 @@
 
     <div class="container-fluid  my_bg">
-        <div class="container col-8 d-flex footer_container" >
-            <div class="list_menu_footer d-flex  ">
+        <div class="container col-10 d-flex footer_container" >
+            <div class="list_menu_footer d-flex pt-4 ">
                 <ul class="items">
                     <li><h3>DC COMICS</h3></li>
                     <li>rger</li>
