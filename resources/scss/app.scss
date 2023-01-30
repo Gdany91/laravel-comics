@@ -5,6 +5,8 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+// HEADER 
 .top{
     
     height: 20px;
@@ -36,4 +38,32 @@
 .bottom{
     background-color:#007bf6;
     height: 100px;
+}
+
+
+
+
+// FOOTER 
+
+.my_bg{
+    background-image: url(/resources/img/footer-bg.jpg);
+    max-height: 400px;  // DEBUG
+    object-fit: contain;
+    overflow: hidden;
+   
+}
+
+.items{
+    li{
+        color: aliceblue;
+        list-style-type: none;
+    }
+}
+
+.footer_container{
+    overflow: hidden;
+}
+
+.big_logo{
+    margin-top: -100px;
 }
