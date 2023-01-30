@@ -1,1 +1,39 @@
-@import '~bootstrap/scss/bootstrap'
+@import '~bootstrap/scss/bootstrap';
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.top{
+    
+    height: 20px;
+    background-color: #007bf6;
+}
+
+.menu{
+    ul{
+        cursor: pointer;
+        
+        li{
+        list-style-type: none; 
+        
+            :active{
+                color: #007bf6;
+                border-bottom: 2px solid 007bf6 ;
+            }       
+        }
+    }
+}
+
+.jumbo{
+    background-image: url(/resources/img/jumbotron.jpg);
+    height: 500px;
+ 
+    
+}
+    
+.bottom{
+    background-color:#007bf6;
+    height: 100px;
+}
