@@ -30,7 +30,5 @@
     <div class="jumbo">
         
     </div>
-    <div class="bottom">
-        
-    </div>
+  
 </div>

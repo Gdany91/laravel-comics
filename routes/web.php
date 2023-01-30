@@ -13,6 +13,10 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+
 Route::get('/', function () {
-    return view('main_layout');
+    return view('pages.main_page');
+});
+Route::get('/details', function () {
+    return view('pages.second_page');
 });

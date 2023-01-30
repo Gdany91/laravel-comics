@@ -67,3 +67,25 @@
 .big_logo{
     margin-top: -100px;
 }
+
+
+
+// MAIN PAGE
+
+.my_cont{
+    position: relative;
+
+    .text-current{
+        background-color: #007bf6;
+        padding: 10px;
+        position: relative;
+        top: -30px;
+
+        a{
+            color: white;
+            text-decoration: none;
+        }
+
+    }
+}
+
