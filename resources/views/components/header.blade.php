@@ -1,7 +1,7 @@
 <div class="container-fluid">
     <div class="top"></div>
     
-    <div class="container col-8">
+    <div class="container col-9 pe-5">
         
         <div class="container-fluid d-flex justify-content-between align-item-center">
         
