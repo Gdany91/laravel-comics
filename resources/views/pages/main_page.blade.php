@@ -92,7 +92,7 @@
             </span>        
         </div>
 
-        <div class="container-fluid bottom_main bottom_cont">
+        <div class="container-fluid bottom_main bottom_cont mt-5">
             <div class="bottom_main d-flex justify-content-around  pe-5 fw-bold  container ">
                 <a href="" >
                     <img src="{{ Vite::asset('resources/img/buy-comics-digital-comics.png') }}" alt="">
@@ -124,7 +124,7 @@
                 </a>
            
         </div>
-        </div>
+        
             
        
     </div>
